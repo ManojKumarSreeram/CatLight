@@ -16,6 +16,11 @@ button {
     border: 0px;
 }
 
+button:hover {
+    background-color: black;
+    color: white;
+}
+
 p {
     margin-right: 10px;
 }
